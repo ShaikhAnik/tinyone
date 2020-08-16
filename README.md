@@ -1,2 +1,2 @@
 # tinyone
-Psd to bootstrap
+This is a Psd to bootstrap project header and navbar section
